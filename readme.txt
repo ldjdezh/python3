@@ -1,3 +1,3 @@
 hello
 *dev
-and one
+and 1
