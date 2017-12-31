@@ -1,2 +1,2 @@
 git is easy
-git is free
+git is free2
