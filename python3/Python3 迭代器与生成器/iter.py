@@ -3,3 +3,4 @@ it = iter(list)
 
 for x in it:
     print(x, end=" ")
+	print(x, end=" ")
